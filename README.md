@@ -32,8 +32,8 @@ This playground can work with various data sources:
 - **CSV / Excel / JSON** - Flat files and structured data
 - **SQL Databases** - PostgreSQL, MySQL, SQLite
 - **APIs** - REST endpoints, web scraping
-<> - **Cloud Storage** - AWS S3, Google Cloud Storage, Azure Blob
-<> - **Big Data** - Parquet, Arrow, DuckDB for larger-than-memory datasets
+[//]: - **Cloud Storage** - AWS S3, Google Cloud Storage, Azure Blob
+[//] - **Big Data** - Parquet, Arrow, DuckDB for larger-than-memory datasets
 
 
 
